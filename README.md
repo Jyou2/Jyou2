@@ -3,9 +3,20 @@ My blog is [Click](https://onyoujeong.netlify.app/)
 
 
 <!--
-This blog is written in Markdown.
-**Jyou2/Jyou2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Onyou Jeong 정온유
+Back-end Programmer
 
+### I do
+✔**Java**
+✔**Servlet/JSP**
+✔**Spring**
+✔**Oracle**
+✔**HTML/CSS**
+✔**JavaScript**
+
+### Contact me
+Email|jonyou0601@gmail.com
+Resume(Korean) |[Notion Resume]()
 Here are some ideas to get you started:
 I’m currently learning web development.💻  
 - 🔭 I’m currently working on ...
